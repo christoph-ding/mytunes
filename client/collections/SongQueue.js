@@ -2,10 +2,6 @@
 var SongQueue = Songs.extend({
 
   initialize: function() {
-
   },
-  addSong: function() {
-    console.log('hi')
-  }
   
 });
